@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Blueprints/BP_Proyectile.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/TopDown/Blueprints/BP_Turret.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/SB/JKC47SX84OWGWLX03WDR7P.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/1M/D54G61RE2FXECNZ3OUK8RG.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/GN/I7662X3IIYSLKRHL5X9QXJ.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/TT/CNTSQCERBZWASPF44P52X2.uasset",
+				"C:/Users/megaa/OneDrive/Documentos/Unreal Projects/ProjectoTopDownAndre/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset"
+			]
+		}
+	]
+}
